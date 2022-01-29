@@ -1,4 +1,4 @@
-# Heart-attack-classfication-model
+# Heart-attack-classification-model
 Supervised machine learning algorithms used to predict the probability of patients getting a heart attack.
 
 ## 1. Installation:
