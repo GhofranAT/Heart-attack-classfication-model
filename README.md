@@ -26,7 +26,7 @@ Secondly, the dataset contains some categorical columns with important data for 
 
 The model in this project is able to predict the probability of patients getting a heart attack with accuracy of 82.60% and f1-sccore of 83%.
 
-The results are shared in this link: [click_here](https://medium.com/@gftawfiq/mental-health-270dca4b0a1d)
+The results are shared in this link: [click_here](https://gftawfiq.wixsite.com/heart-attack-project/post/heart-attack-classification-model)
 
 ## 5. Author:
 This project was created by Ghofran Al Tawfiq
