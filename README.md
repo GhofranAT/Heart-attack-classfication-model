@@ -18,7 +18,7 @@ A Jupyter notebook with all the python codes that were used to create the ML mod
 The source of the dataset
 
 ## 4. Project Details:
-The main objective of this project was to to analyze the patients' medical records like their blood pressure, cholesterol level, blood sugar, etc. Furthermore, a ML algorithm was be used to classify the patients based on the probability of having a heart attack.
+The main objective of this project was to analyze the patients' medical records like their blood pressure, cholesterol level, blood sugar, etc. Furthermore, ML algorithms was used to classify the patients based on the probability of having a heart attack.
 
 The first thing that conflicted with the analysis process is the existance of some missing values in the numerical colums. For this, all the null values were replaced with the mean of the patients' records in the same heart attack class in the dataset. 
 
